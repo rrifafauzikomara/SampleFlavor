@@ -8,7 +8,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="Test"
+        android:label="Simple Flavor"
         android:icon="@mipmap/test">
         <activity
             android:name=".MainActivity"
